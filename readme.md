@@ -14,4 +14,5 @@ To develop:
 2. `npm install` to fetch dev dependencies
 3. `grunt watch`
 4. Fire up a php dev server: `php -S 0.0.0.0:8000`
-3. Go to 0.0.0.0:8000
+5. Go to 0.0.0.0:8000
+6. Edit sass in `dev-css/`; edit js in `dev-js/`. `js/` and `css/` are builds and shouldn't be edited directly.
